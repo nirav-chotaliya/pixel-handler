@@ -1,9 +1,9 @@
 const CACHE = 'v1',
     URLS = [
-        'https://nirav-chotaliya.github.io/',
-        'https://nirav-chotaliya.github.io/index.html',
-        'https://nirav-chotaliya.github.io/app.js',
-        'https://nirav-chotaliya.github.io/images/image.png'
+        'https://nirav-chotaliya.github.io/pixel-handler/',
+        'https://nirav-chotaliya.github.io/pixel-handler/index.html',
+        'https://nirav-chotaliya.github.io/pixel-handler/app.js',
+        'https://nirav-chotaliya.github.io/pixel-handler/images/image.png'
     ],
     PIXEL_IMAGE = '/images/image.png'
 
